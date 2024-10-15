@@ -58,7 +58,7 @@ p {
 }
 
 .social-buttons a:hover {
-    background-color: rgb(241, 238, 232);
+    background-color: lightgray;
 }
 
 .social-buttons a img {
