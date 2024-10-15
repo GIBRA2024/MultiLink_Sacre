@@ -12,6 +12,9 @@ body {
 }
 
 .container {
+    background-image: url('Imagenes/fondo-tarjeta.jpg');
+    background-size: cover;
+    background-position: center;
     background-color: black;
     border-radius: 10px;
     padding: 20px;
@@ -69,7 +72,7 @@ p {
 }
 
 footer {
-    margin: 380px 0;
+    margin: 315px 0;
     text-align: center;
     padding: 5px;
     border-radius: 5px;
